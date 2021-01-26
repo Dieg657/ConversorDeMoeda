@@ -1,5 +1,5 @@
 # ConversorDeMoeda
-Conversor de valor para uma determinada configuração de região!
+Conversor de valor para um formato monetário de uma determinada configuração de região!
 
 *Entrada:*
 _dotnet ConvertToCulture.Application.dll 120000.00 en-US_
