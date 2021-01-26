@@ -9,9 +9,9 @@ _120,000.00 en-US_
 
 Configurações de região disponíveis:
 
-Estados Unidos - "en-US"
-Brasil - "pt-BR"
-Japão - "ja-JP"
-Espanha - "es-ES"
-França - "fr-FR"
-Alemanha - "de_DE"
+Estados Unidos - "en-US"; 
+Brasil - "pt-BR"; 
+Japão - "ja-JP"; 
+Espanha - "es-ES"; 
+França - "fr-FR"; 
+Alemanha - "de_DE"; 
