@@ -14,4 +14,4 @@ Brasil - "pt-BR";
 Japão - "ja-JP"; 
 Espanha - "es-ES"; 
 França - "fr-FR"; 
-Alemanha - "de_DE"; 
+Alemanha - "de-DE"; 
